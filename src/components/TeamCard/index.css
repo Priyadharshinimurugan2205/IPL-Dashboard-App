@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.team-item {
+  list-style-type: none;
+  width: 50%;
+}
+.team-logo {
+  width: 45px;
+  height: 45px;
+}
+.link {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff33;
+  border:1px solid #ffffff;
+  border-radius: 12px;
+  height: 85%;
+  text-decoration: none;
+  padding-left: 6px;
+  padding-top: 12px;
+  padding-right: 8px;
+  padding-bottom: 12px;
+}
